@@ -1,7 +1,7 @@
 import React, {useRef} from "react"; 
 
 
-const BOTS_API = "https://json-server-vercel-34ln.vercel.app/api/bots"
+const BOTS_API = "https://serverapi-beta.vercel.app/bots"
 
 function BotsItems({
     avatar_url,
